@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KATSABOLA
 - 👀 I’m interested in Datascience and Biostatics
-- 🌱 I’m MSc in Biostatistics
+- 🌱 I’m studying MSc in Biostatistics at Stellenbosch University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
