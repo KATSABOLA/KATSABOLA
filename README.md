@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @KATSABOLA
-- 👀 I’m interested in Datascience and Biostatistics
+- 📊🧬 Passionate about Data Science & Biostatistics 📈💡
+- 🔍 Exploring the Depths of Longitudinal Data and the Essence of Survival Analysis ⏳🔬
 - 🌱 Studied MSc in Biostatistics at Stellenbosch University
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I love collaborate
 - 📫 How to reach me ...
 
 <!---
