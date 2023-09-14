@@ -2,7 +2,7 @@
 - 📊🧬 Passionate about Data Science & Biostatistics 📈💡
 - 🔍 Exploring the Depths of Longitudinal Data and the Essence of Survival Analysis ⏳🔬
 - 🌱 Studied MSc in Biostatistics at Stellenbosch University
-- 💞️ I love collaborate
+- 💞️ I love to collaborate
 - 📫 How to reach me ...
 
 <!---
