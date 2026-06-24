@@ -4,11 +4,11 @@
 I’m passionate about **data science, biostatistics, and statistical modelling**, with a strong interest in extracting meaningful insights from data.
 
 ## 🔍 Interests
-- Data Science & Statistical Analysis  
-- Biostatistics & Epidemiology  
+- Biostatistics & Epidemiology 
+- Data Science 
 - Survival Analysis & Longitudinal Data  
 - Bayesian Methods  
-- Reproducible Research  
+
 
 ## 🛠️ Tools & Technologies
 - **Languages:** R, Python  
